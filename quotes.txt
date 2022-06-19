@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+You are a boulder, I am a mountain
+If you're not a good shot today, don't worry, there are other ways to be useful
+come
